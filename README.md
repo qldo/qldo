@@ -8,7 +8,7 @@ I've been learning to code for 5 years, by going to college and self studying. I
 
 * 🖥️  See my portfolio at [MyPorfolio](http://qldo.github.io)
 * ✉️  You can contact me at [idzhdl@gmail.com](mailto:idzhdl@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://myapp.com)
+* 🚀  I'm currently working on [MyApp](http://qldo.github.io)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Contact me at anytime.
