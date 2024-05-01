@@ -48,7 +48,6 @@ I've been learning to code for 5 years, by going to college and self studying. I
 
 ---
 
----
 
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
