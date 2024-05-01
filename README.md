@@ -39,3 +39,11 @@ I've been learning to code for 5 years, by going to college and self studying. I
 I've been learning to code for 5 years, by going to college and self studying. I started with python and C++, and have passion for back-end development. I have used several back-end programming languages and have knowledge on Amazon Web Services and how to use them. I have created some projects and have cooperated with teammates communicating and making a great applications and programs.
 
 ---
+
+### 📗 Latest Blog Posts
+
+<!-- BLOG-POSTS:START -->
+- [sorrow Blog](https://qldo.github.io)
+<!-- BLOG-POSTS:END -->
+
+---
