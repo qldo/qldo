@@ -40,18 +40,6 @@ Hi, I'm qldo. I am passionate about solving business problems through code and w
 
 ---
 
-### ✨ About me
-
-💡 Backend Developer | Java, Spring Boot, MSA
-
-🚀 Passionate about performance optimization and building scalable cloud-native applications.
-☁️ Experienced with AWS, Oracle Cloud, Docker, and CI/CD automation.
-🌱 I am constantly learning to become a developer who solves real-world problems with robust code.
-
-Hi, I'm qldo. I am passionate about solving business problems through code and wish to contribute to a collaborative, growth-oriented development culture.
-
----
-
 ### 📗 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
