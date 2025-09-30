@@ -4,7 +4,13 @@
 **`Software Enginner`**
 -----------------
 
-I've been learning to code for 5 years, by going to college and self studying. I started with python and C++, and have passion for back-end development. I have used several back-end programming languages and have knowledge on Amazon Web Services and how to use them. I have created some projects and have cooperated with teammates communicating and making a great applications and programs.
+💡 Backend Developer | Java, Spring Boot, MSA
+
+🚀 Passionate about performance optimization and building scalable cloud-native applications.
+☁️ Experienced with AWS, Oracle Cloud, Docker, and CI/CD automation.
+🌱 I am constantly learning to become a developer who solves real-world problems with robust code.
+
+Hi, I'm qldo. I am passionate about solving business problems through code and wish to contribute to a collaborative, growth-oriented development culture.
 
 * 🖥️  See my portfolio at [MyPorfolio](http://qldo.github.io)
 * ✉️  You can contact me at [idzhdl@gmail.com](mailto:idzhdl@gmail.com)
