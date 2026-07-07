@@ -12,9 +12,8 @@
 
 Hi, I'm qldo. I am passionate about solving business problems through code and wish to contribute to a collaborative, growth-oriented development culture.
 
-* 🖥️  See my portfolio at [MyPorfolio](http://qldo.github.io)
-* ✉️  You can contact me at [idzhdl@gmail.com](mailto:idzhdl@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://qldo.github.io)
+* 🖥️  See my repository at [MyRepository](https://github.com/qldo?tab=repositories)
+* ✉️  You can contact me at [idzhdl@gmail.com](mailto:idzhdl@https://github.com/qldo?tab=repositoriesgmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Contact me at anytime.
